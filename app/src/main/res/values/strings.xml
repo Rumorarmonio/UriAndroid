@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Uri</string>
+    <string name="hmm">Choose an option</string>
+    <string name="web_address">Web address</string>
+    <string name="geo_point">Geo point</string>
+    <string name="phone_number">Phone number</string>
+    <string name="do_it">Do it</string>
+</resources>
